@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b2a49">
+  <title>ALISIO28 · Contactos</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="contact-card">
+    <a href="index.html" aria-label="Volver a ALISIO28"><img src="assets/logo-alisio28-definitivo.png" width="1990" height="790" alt="ALISIO28"></a>
+    <p class="eyebrow">Contacto Directo</p>
+    <h1>Te escuchamos</h1>
+    <div class="contact-card-links">
+      <a href="https://www.linkedin.com/company/alisio28/" target="_blank" rel="noopener noreferrer"><span>LinkedIn</span><span>ALISIO28 ↗</span></a>
+      <a href="tel:+34699474639"><span>Rut Gil</span><span>699 474 639</span></a>
+      <a href="tel:+34606382314"><span>Sonia Padrón</span><span>606 382 314</span></a>
+      <a href="mailto:info@alisio28.com" data-contact aria-haspopup="dialog" aria-controls="contact-dialog"><span>Correo</span><span>info@alisio28.com ↗</span></a>
+    </div>
+    <a class="button" href="assets/alisio28-contacto.vcf" download="ALISIO28-Contacto.vcf">Guardar en la Agenda <span aria-hidden="true">↓</span></a>
+    <a class="back-link" href="index.html">Volver a la Web</a>
+  </main>
+  <dialog class="contact-dialog" id="contact-dialog" aria-labelledby="dialog-title" aria-describedby="dialog-intro">
+    <form method="dialog"><button class="dialog-close" aria-label="Cerrar" autofocus>×</button></form>
+    <p class="eyebrow">Contacto ALISIO28</p>
+    <h2 id="dialog-title">¿Cómo prefieres escribirnos?</h2>
+    <p id="dialog-intro">Elige tu medio de correo. El destinatario ya está preparado.</p>
+    <label class="recipient-label" for="contact-recipient">Para</label>
+    <input id="contact-recipient" type="email" value="info@alisio28.com" readonly>
+    <div class="email-options">
+      <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=info%40alisio28.com" target="_blank" rel="noopener noreferrer">Gmail <span aria-hidden="true">↗</span></a>
+      <a href="https://outlook.live.com/mail/0/deeplink/compose?to=info%40alisio28.com" target="_blank" rel="noopener noreferrer">Outlook <span aria-hidden="true">↗</span></a>
+      <a href="mailto:info@alisio28.com">Mi Aplicación de Correo <span aria-hidden="true">↗</span></a>
+    </div>
+  </dialog>
+  <script src="contact.js" defer></script>
+</body>
+</html>
