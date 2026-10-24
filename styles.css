@@ -43,6 +43,7 @@ h1,h2,h3,p,figure { margin:0; text-align:left; }
 .eyebrow { color:var(--teal); font-size:.75rem; font-weight:650; letter-spacing:.05em; margin-bottom:18px; }
 h1 { max-width:1050px; font-size:clamp(2.1rem,4.1vw,3.65rem); line-height:1.15; letter-spacing:-.035em; font-weight:600; }
 h1 span { color:var(--teal); }
+.hero-main-line { color:var(--navy) !important; white-space:nowrap; }
 .hero-intro { max-width:580px; margin-block:24px 28px; color:var(--text); font-size:1.04rem; }
 .contact-strip { display:grid; grid-template-columns:1fr 1fr 148px; gap:40px; align-items:center; margin-top:42px; padding-block:24px 32px; border-top:1px solid var(--line); }
 .contact-intro .eyebrow { margin-bottom:6px; }
@@ -105,6 +106,7 @@ h2 { font-size:clamp(1.85rem,2.7vw,2.65rem); line-height:1.2; letter-spacing:-.0
   .eyebrow { font-size:.68rem; margin-bottom:16px; }
   .services-label { font-size:1rem; }
   h1 { font-size:clamp(1.8rem,7.1vw,2.6rem); line-height:1.2; letter-spacing:-.035em; }
+  .hero-main-line { white-space:normal; }
   .hero-intro { margin-block:20px 24px; font-size:.94rem; }
   .contact-strip { grid-template-columns:1fr 120px; gap:18px 12px; margin-top:32px; padding-bottom:24px; }
   .contact-intro { grid-column:1 / -1; }
