@@ -1,4 +1,4 @@
-# ALISIO28 - Web para GitHub Pages - REV 08
+# ALISIO28 - Web para GitHub Pages 
 
 Paquete preparado el 23/10/2026 a partir de la web revisada, con los últimos nombres, teléfonos y selector de correo.
 
