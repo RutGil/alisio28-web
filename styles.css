@@ -77,9 +77,9 @@ h2 { font-size:clamp(1.85rem,2.7vw,2.65rem); line-height:1.2; letter-spacing:-.0
 .method { background:rgba(236,243,246,.84); padding-block:62px; }
 .method-steps { display:grid; grid-template-columns:repeat(4,1fr); gap:28px; list-style:none; padding:0; margin:0; }
 .method-steps li { border-top:1px solid #c2d3db; padding-top:18px; }
-.method-steps span { display:block; color:var(--teal); font-size:.75rem; margin-bottom:20px; }
+.method-steps span { display:block; color:var(--teal); font-size:1.35rem; line-height:1; letter-spacing:.02em; font-weight:600; margin-bottom:18px; }
 .method-steps h3 { font-size:1rem; font-weight:600; margin-bottom:8px; }
-.method-steps p { max-width:27ch; font-size:.9rem; line-height:1.55; text-align:justify; text-justify:inter-word; color:var(--text); }
+.method-steps p { max-width:31ch; font-size:.95rem; line-height:1.55; text-align:left; color:var(--text); }
 .final-contact { display:flex; justify-content:space-between; align-items:center; gap:32px; }
 .final-logo { width:290px; height:auto; margin-bottom:24px; }
 .final-contact h2 { display:flex; align-items:center; gap:14px; }

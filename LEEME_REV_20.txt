@@ -1,0 +1,8 @@
+REV 20 - 26/10/2026
+Mejora visual de la sección «Cómo trabajamos»:
+- números 01 a 04 ampliados y con más presencia;
+- párrafos alineados a la izquierda para evitar separaciones irregulares entre palabras;
+- anchura y tamaño ajustados para que cada bloque se lea con claridad.
+
+Se conserva el contenido de REV19, incluido el pie legal mínimo con Aviso legal, Privacidad y Cookies.
+Conservar CNAME y el flujo existente de GitHub Actions. Los archivos de esta carpeta se suben a la raíz del repositorio RutGil/alisio28-web.
