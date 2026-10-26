@@ -1,0 +1,13 @@
+REV 19 - 26/10/2026
+Se añade la información legal mínima visible desde el pie de la web:
+- aviso-legal.html
+- privacidad.html
+- cookies.html
+
+La titular publicada es Rut Gil Cárdenes, NIF 44700781M, Avenida Juan XXIII, n.º 7, Las Palmas de Gran Canaria, info@alisio28.com.
+La política de privacidad identifica el acceso de la titular al buzón y los proveedores tecnológicos necesarios, sin inventar un proveedor de correo no confirmado.
+La política de cookies describe la configuración técnica revisada: no se han detectado cookies analíticas, publicitarias ni de seguimiento en la web actual. Los enlaces externos tienen sus propias políticas.
+Las condiciones de cada encargo se entregan en el presupuesto cuando corresponda; no se muestran como página pública en esta revisión.
+
+No se publica ninguna titulación, habilitación ni número de registro.
+Conservar CNAME y el flujo existente de GitHub Actions. Los archivos de esta carpeta se suben a la raíz del repositorio RutGil/alisio28-web.
