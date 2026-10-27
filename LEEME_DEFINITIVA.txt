@@ -1,0 +1,10 @@
+ALISIO28 WEB DEFINITIVA - 27/10/2026
+
+Esta carpeta contiene la versión validada para publicar de la web ALISIO28.
+
+Incluye el ajuste final del QR:
+- se mantiene “Te escuchamos” centrado sobre el QR;
+- queda únicamente “Compartir contacto ↗”, pegado debajo del QR;
+- el enlace del QR comparte los contactos de ALISIO28 por WhatsApp.
+
+Las revisiones anteriores se conservan en la carpeta REVISIONES_ANTERIORES.

@@ -89,6 +89,7 @@ h2 { font-size:clamp(1.85rem,2.7vw,2.65rem); line-height:1.2; letter-spacing:-.0
 .final-contact h2 .listening { width:34px; height:38px; }
 .final-contact p { margin-top:14px; color:var(--text); font-size:.94rem; }
 .final-contact-qr > p { width:240px; text-align:center; }
+.qr-share-hint { width:240px; margin-top:-10px; color:var(--teal); font-size:.72rem; line-height:1.2; text-align:center; letter-spacing:.01em; }
 .footer { background:var(--navy); padding-block:30px; color:#fff; font-size:.8rem; }
 .footer-top { display:flex; flex-wrap:wrap; gap:28px; }
 .legal-links { display:flex; flex-wrap:wrap; gap:10px 22px; margin-top:18px; }
