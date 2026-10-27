@@ -1,0 +1,6 @@
+REV 30 - 27/10/2026
+
+Ajuste de la vista previa:
+- “Te escuchamos” se reduce aproximadamente al 75 % de su tamaño anterior;
+- mantiene su posición centrada encima del QR;
+- esta revisión es solo local y no se publica en GitHub.
