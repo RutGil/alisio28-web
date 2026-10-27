@@ -1,0 +1,10 @@
+REV 23 - 27/10/2026
+
+Confirmación de la composición final de contacto:
+- «Te escuchamos» permanece encima del QR;
+- el texto inferior es únicamente «Cuéntanos tu Proyecto»;
+- el texto queda centrado debajo del QR;
+- se mantiene el logo desplazado hacia la derecha de su bloque.
+
+Se conserva el contenido de REV22, incluido el pie legal mínimo con Aviso legal, Privacidad y Cookies.
+Los archivos de esta carpeta se suben a la raíz del repositorio RutGil/alisio28-web.
