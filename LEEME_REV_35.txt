@@ -1,0 +1,11 @@
+REV 35 — 29/10/2026
+
+Se actualizan los títulos de los servicios en las dos copias activas del sitio:
+
+01 Diagnóstico Documental y Mejora de la Gestión Documental.
+02 Autoprotección y Preparación ante Emergencias.
+03 Coordinación de Seguridad y Salud y CAE.
+04 Formación en Autoprotección y Simulacros.
+05 Planes de Movilidad Sostenible al Trabajo (planIA).
+
+La REV 34 se conserva en REVISIONES_ANTERIORES.
